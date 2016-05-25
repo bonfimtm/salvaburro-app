@@ -1,0 +1,22 @@
+$positive: #5B2E90;
+$calm: #D3B4F8;
+$energized: #FF9200;
+$assertive: #D9534F;
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.bg-color-one {
+	background-color: #5B2E90;
+}
+
+.bg-color-two {
+	background-color: #FF9200;
+}
+
+.bg-color-three {
+	background-color: #D3B4F8;
+}
+
+.color-white {
+	color: white;
+}
+
