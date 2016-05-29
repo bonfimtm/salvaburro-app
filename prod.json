@@ -1,0 +1,28 @@
+{
+	"products": {
+		"7891010032937": {
+			"desc": "CONTONETES JONHSON & JONHOSON 150 UNID",
+			"currency": "R$",
+			"price": "7,90",
+			"unit": "UND"
+		},
+		"7891106906944": {
+			"desc": "ANTICONCEPCIONAL DIANE 35 BAYER CAIXA C/ 3",
+			"currency": "R$",
+			"price": "21,90",
+			"unit": "UND"
+		},
+		"673419232906": {
+			"desc": "LEGO CLASSIC 10693 CAIXA C/ 303 PCS",
+			"currency": "R$",
+			"price": "129,90",
+			"unit": "UND"
+		},
+		"7896002302128": {
+			"desc": "BOLINHO ANA MARIA DUPLO CHOCOLATE 80G",
+			"currency": "R$",
+			"price": "1,90",
+			"unit": "UND"
+		}
+	}
+}

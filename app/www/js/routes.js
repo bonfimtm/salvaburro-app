@@ -48,6 +48,9 @@ angular.module('app.routes', [])
 
   .state('tabsController.produto', {
     url: '/produto',
+    params: {
+      'barcode': '0'
+    },
     views: {
       'tab1': {
         templateUrl: 'templates/produto.html',

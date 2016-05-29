@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"er",
+				"errmsg"
+			],
+			[
+				"cha",
+				"charAt"
+			],
+			[
+				"is",
+				"isAllUniqueMatias"
+			],
+			[
+				"init",
+				"initPosts"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pho",
+				"phoneTIM"
+			],
+			[
+				"phone",
+				"phoneLandline"
+			],
+			[
+				"obj",
+				"Object"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"name",
+				"nativeName"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"ai",
+				"airport"
+			],
+			[
+				"air",
+				"airports"
+			],
+			[
+				"airpo",
+				"airport"
+			],
+			[
+				"get",
+				"getInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/html.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package co	",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/thiago/Downloads/salvaBurro/js/routes.js",
+		"/Users/thiago/Downloads/salvaBurro/js/directives.js",
+		"/Users/thiago/Downloads/salvaBurro/js/controllers.js",
+		"/Users/thiago/Downloads/salvaBurro/js/app.js",
+		"/Users/thiago/Dropbox/_LC/Cert/tx0102.csi",
+		"/Users/thiago/Dropbox/_LC/Cert/PD000200000081.csi",
+		"/Users/thiago/Dropbox/_LC/Cert/tx01.csi",
+		"/Users/thiago/Downloads/README.md",
+		"/Users/thiago/Dropbox/_LC/Cert/reg10.json",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/bonfimtm/dist/assets/js/text-rotator.js",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/bonfimtm/compress.sh",
+		"/Users/thiago/Downloads/bootstrap (5)/css/bootstrap.min.css",
+		"/Users/thiago/Downloads/bootstrap (5)/config.json",
+		"/Users/thiago/Downloads/bootstrap (4)/css/bootstrap.min.css",
+		"/Users/thiago/Downloads/bootstrap (4)/config.json",
+		"/Users/thiago/Downloads/bootstrap (3)/config.json",
+		"/Users/thiago/Downloads/bootstrap (1)/config.json",
+		"/Users/thiago/Downloads/bootstrap (1)/css/bootstrap.min.css",
+		"/Users/thiago/Downloads/tc0.txt",
+		"/Users/thiago/Downloads/bootstrap/css/bootstrap.min.css",
+		"/Users/thiago/Downloads/bootstrap(7)/config.json",
+		"/Users/thiago/Downloads/bootstrap(7)/css/bootstrap.min.css",
+		"/Users/thiago/Downloads/bootstrap(5)/css/bootstrap.min.css",
+		"/Users/thiago/Downloads/bootstrap(3)/css/bootstrap.min.css",
+		"/Users/thiago/Downloads/bootstrap(2)/css/bootstrap.min.css",
+		"/Users/thiago/Downloads/bootstrap-linx/config.json",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/dwarf/src/index.html",
+		"/Users/thiago/Dropbox/_LC/01.json",
+		"/Users/thiago/Dropbox/_LC/Workbook1.csv",
+		"/Users/thiago/Downloads/01.json",
+		"/Users/thiago/Dropbox/_LC/PD000200000081.csi",
+		"/Users/thiago/Downloads/workspace/README.md",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/bonfimtm/src/index.html",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/Ferramentas/compress.sh",
+		"/Users/thiago/apache-tomcat-7.0.56/webapps/aquarela/src/js/app.js",
+		"/Users/thiago/Desktop/2016.04.05_23-27-09-BRT.wcap",
+		"/Users/thiago/apache-tomcat-7.0.56/webapps/efischat/app.js",
+		"/Users/thiago/apache-tomcat-7.0.56/webapps/efischat/index.html",
+		"/Users/thiago/apache-tomcat-7.0.56/webapps/efischat/rsvp-latest.min.js",
+		"/Users/thiago/Desktop/SystemVersion.plist",
+		"/Users/thiago/Dropbox/Workspaces/unq/Main.java",
+		"/Users/thiago/Main.java",
+		"/Users/thiago/unique.c",
+		"/Users/thiago/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/thiago/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Coder.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/duvidas",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/errata",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/IdentificationTable.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Identifier.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Instruction.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Main.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Parser.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Printer.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Scanner.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Token.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Visitor.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/Compilador/src/br/edu/univasf/compilador/Checker.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Java/WelcomeJSON/src/com/thiagobonfim/JSONCreateTest.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/Compiladores/ArvoreDecisao/src/br/edu/univasf/arvoredescisao/Main.java",
+		"/Users/thiago/Dropbox/Workspaces/NetBeansProjects/JavaComm/SpamMessageSystem/nbproject/project.properties",
+		"/Users/thiago/Downloads/harshadura-SMS.Dura.Wrapper-956025b/src/logic/TestSMS.java",
+		"/Users/thiago/Dropbox/Projetos/SMSpam/SMSC.txt",
+		"/Users/thiago/Dropbox/NetBeansLibs/SMS.Dura.Wrapper. F/javax.comm.properties",
+		"/Users/thiago/Downloads/SMSC.txt",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/aquarela/src/js/app.js",
+		"/Users/thiago/Downloads/submit.php",
+		"/Library/WebServer/Documents/sms-master/sms.class.php",
+		"/Library/WebServer/Documents/sms-master/sms.test.php",
+		"/Library/WebServer/Documents/sms-master/README.md",
+		"/Users/thiago/Dropbox/Documentos/Curriculum Vitae/Latex/plain-cv.txt",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/index.html",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/js/app/homePostCtrl.js",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/partials/admin/home.html",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/css/style.css.map",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/css/custom.css",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/partials/navbar.html",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/js/custom.js",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/partials/admin/navbar.html",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/ooraculo/src/js/cat.js",
+		"/Users/thiago/Downloads/cat.json",
+		"/Users/thiago/Downloads/template.html",
+		"/Users/thiago/Dropbox/Workspaces/Git/bitbucket-kalista-marginais/marginais-model/src/META-INF/persistence.xml",
+		"/Users/thiago/Downloads/standalone.xml",
+		"/Users/thiago/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/835139B5-0FC3-4E8E-B9C0-41DDE99A0C68/wildfly-init-debian.sh",
+		"/Users/thiago/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/3610AC9F-01BB-47FB-8D1C-F0CE0AF9055B/standalone.xml",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/user-media/index.html",
+		"/Users/thiago/Downloads/index.html",
+		"/Users/thiago/Downloads/plain-cv.tex",
+		"/Users/thiago/Dropbox/Workspaces/JS/bonfimtm/dist/index.html",
+		"/Users/thiago/Dropbox/Workspaces/JS/bonfimtm/src/index.html",
+		"/Users/thiago/Dropbox/Workspaces/JS/bonfimtm/compress.sh",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/_index.jsp",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/index.jsp",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/partials/navbar.html",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/index.html",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/partials/post.html",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/partials/home.html",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/app/adminCtrl.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/app/adminNavbarCtrl.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/app/adminPostFormCtrl.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/app/adminPostListCtrl.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/app/app.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/app/homePostCtrl.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/app/homeCtrl.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/app/adminLoginCtrl.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/goblin/src/js/custom.js",
+		"/Users/thiago/Dropbox/Workspaces/JS/midia/compress.sh",
+		"/Library/WebServer/Documents/bruder/src/404.html",
+		"/Library/WebServer/Documents/bruder/compress.sh",
+		"/Library/WebServer/Documents/bruder/src/partials/admin/navbar.html",
+		"/Library/WebServer/Documents/bruder/src/auth.xhtml",
+		"/Library/WebServer/Documents/bruder/src/js/app/adminPostListCtrl.js",
+		"/Library/WebServer/Documents/bruder/src/js/app/homePostCtrl.js",
+		"/Library/WebServer/Documents/bruder/src/js/app/homeCtrl.js",
+		"/Library/WebServer/Documents/bruder/src/js/app/app.js",
+		"/Library/WebServer/Documents/bruder/src/js/custom.js",
+		"/Library/WebServer/Documents/bruder/src/navbar.html",
+		"/Library/WebServer/Documents/bruder/src/js/goblin.js",
+		"/Library/WebServer/Documents/bruder/src/css/goblin.css",
+		"/Library/WebServer/Documents/bruder/src/home.html",
+		"/Library/WebServer/Documents/bruder/src/contato.html",
+		"/Library/WebServer/Documents/bruder/src/perguntas.html",
+		"/Library/WebServer/Documents/bruder/src/css/custom.css",
+		"/Library/WebServer/Documents/bruder/src/js/app/adminCtrl.js",
+		"/Library/WebServer/Documents/bruder/src/js/app/adminPostFormCtrl.js",
+		"/Library/WebServer/Documents/bruder/src/partials/admin/post-list.html",
+		"/Library/WebServer/Documents/bruder/src/partials/admin/post-form.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"99",
+			"~",
+			"font",
+			"sm",
+			"menu",
+			"the pro",
+			"large_white",
+			"templa",
+			"mais",
+			"icon",
+			"input",
+			"subscribe3",
+			"bonfim",
+			"senhor",
+			"baiana",
+			"about me",
+			"about",
+			"junte-se",
+			"junte",
+			"back",
+			"logo",
+			"animat",
+			"animate",
+			"the pro",
+			"req",
+			"font-a",
+			"boot",
+			"json",
+			"log",
+			"home",
+			"phoneLandline",
+			"init",
+			"json",
+			"obj",
+			"subti",
+			"Post",
+			"margin",
+			"margina",
+			"\\emph",
+			"}",
+			"{",
+			"\\end{enumerate}",
+			"\\begin{enumerate}",
+			"\\textbf",
+			"\\end{itemize}",
+			"\\begin{itemize}",
+			"\\item",
+			"\\item*",
+			"\\end*",
+			"\\begin*",
+			"\\section*",
+			"gmail",
+			"thiago<",
+			"jquer",
+			"unisys",
+			"pitang",
+			"\\item ",
+			"href=\"#/",
+			"section",
+			"è",
+			"href=\"#",
+			"\n                                    ",
+			"col-sm",
+			"styleclass",
+			"href=\"/",
+			"\"/",
+			"?faces-redirect=true",
+			"outcome",
+			"h:link value=",
+			"owl",
+			"client",
+			"owl",
+			"400px",
+			"400",
+			"navy",
+			"XMLHttpRequest",
+			"slid",
+			"outcome",
+			"h:link",
+			"documen",
+			"submit",
+			"campo",
+			"form",
+			"quer",
+			"find",
+			"rememb",
+			"zvp",
+			"cd2",
+			"osz",
+			"post",
+			"user",
+			"src/",
+			"pre",
+			"not",
+			"not ",
+			"npm",
+			"felipe-0",
+			"potfolio",
+			"novidades",
+			"modal",
+			"portfolio",
+			"thiago",
+			"fotos",
+			"portfoliomodal",
+			"potfolio",
+			"youtube",
+			"oslo",
+			"url",
+			"img",
+			"banner-img",
+			"img",
+			"placeho",
+			"http://placehold.it/400x400",
+			"url",
+			"background",
+			"img",
+			"08_parallax",
+			"img",
+			"url",
+			"url(",
+			"placeho",
+			"http://placehold.it/400x400",
+			"animate",
+			"video",
+			"veja meu",
+			"uk",
+			"br",
+			"flag"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/Users/thiago/Dropbox/Workspaces/Ferramentas",
+			"",
+			"-",
+			"",
+			"href=\"interviews/",
+			"data-target=\"#",
+			"",
+			"col-xs",
+			"class",
+			"href=\"#/",
+			"\"#/",
+			"",
+			"href",
+			"a",
+			"href",
+			"a",
+			"img/etica/etica-0.jpg",
+			"goblin",
+			"",
+			"Workplace",
+			"School",
+			"Schools",
+			"Site",
+			"sites",
+			"workplace",
+			"workplaces",
+			"Workplace",
+			"Workplaces",
+			"School",
+			"schools",
+			"workplaces",
+			"Workplace",
+			"signUpController",
+			"\" />",
+			"\" itemLabel=\"",
+			"f:selectItem itemValue=",
+			"f:selectItem itemValue",
+			"option>/n",
+			"option>//n",
+			"option>/n",
+			"</option>/n",
+			"Phone",
+			"phones",
+			"Email",
+			"emails",
+			"addresses",
+			"emails",
+			"numbers",
+			"phones",
+			"numbers",
+			"",
+			"\"",
+			"\"));\\n",
+			"\", \"",
+			"Country",
+			"country",
+			"countries",
+			"Country",
+			"\"));\\n",
+			"\", \"",
+			"",
+			",\\n\"code\"",
+			"",
+			"languages",
+			"\"));\\n",
+			"\"));",
+			"\",\"",
+			"\\navailableLanguages.add(new Language(\"",
+			"availableLanguages.add(new Language(\"",
+			"",
+			"	",
+			"\\\\t",
+			"\\t",
+			",",
+			"",
+			",",
+			"/Users/thiago",
+			"<strong>",
+			"<li>",
+			"</ul>",
+			"<ul>",
+			"",
+			"data[i]",
+			"\",\"",
+			",",
+			"<",
+			">",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}

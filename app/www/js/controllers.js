@@ -1,7 +1,48 @@
 angular.module('app.controllers', [])
 
+.controller('consultaDePreOsCtrl', function($scope, $cordovaBarcodeScanner) {
+
+    $scope.takeSelfie = function() {
+        document.addEventListener("deviceready", function() {
+
+            $cordovaBarcodeScanner
+                .scan()
+                .then(function(barcodeData) {
+                    // Success! Barcode data is here
+                    console.log(barcodeData)
+
+                    firebase.database().ref("products/" + barcodeData.text).once('value', function(snapshot) {
+                        var data = snapshot.val()
+                        console.log(data)
+                        alert(data.desc + "\n" + data.currency + " " + data.price + "\n" + data.unit)
+                    });
+
+                    // $state.go("tabsController.produto" , {
+                    //     barcode: barcodeData.text
+                    // })
+                }, function(error) {
+                    // An error occurred
+                    console.log(error)
+                    alert("error: " + error)
+                });
+
+        }, false);
+    }
+
+})
+
 .controller('consultaManualCtrl', function($scope) {
 
+})
+
+.controller('produtoCtrl', function($scope, $stateParams) {
+    $scope.barcode = $stateParams.barcode
+
+    firebase.database().ref("products/" + $scope.barcode).once('value', function(snapshot) {
+        console.log(snapshot.val())
+        $scope.prod = snapshot.val()
+        $scope.$apply()
+    });
 })
 
 .controller('promoEsCtrl', function($scope) {
@@ -10,64 +51,4 @@ angular.module('app.controllers', [])
 
 .controller('guiaDeSeEsCtrl', function($scope) {
 
-})
-
-.controller('produtoCtrl', function($scope) {
-
-})
-
-.controller('consultaDePreOsCtrl', function($scope) {
-
-    $scope.takeSelfie = function() {
-        alert("Smile!")
-    }
-
-})
-
-.controller('BarcodeCtrl', function($scope, $cordovaBarcodeScanner) {
-
-    document.addEventListener("deviceready", function() {
-
-        $cordovaBarcodeScanner
-            .scan()
-            .then(function(barcodeData) {
-                // Success! Barcode data is here
-                console.log(barcodeData)
-                alert(barcodeData)
-            }, function(error) {
-                // An error occurred
-                console.log(error)
-                alert(error)
-            });
-
-    }, false);
-})
-
-.controller('PictureCtrl', function($scope, $cordovaCamera) {
-
-    document.addEventListener("deviceready", function() {
-
-        var options = {
-            quality: 50,
-            destinationType: Camera.DestinationType.DATA_URL,
-            sourceType: Camera.PictureSourceType.CAMERA,
-            allowEdit: true,
-            encodingType: Camera.EncodingType.JPEG,
-            targetWidth: 100,
-            targetHeight: 100,
-            popoverOptions: CameraPopoverOptions,
-            saveToPhotoAlbum: false,
-            correctOrientation: true
-        };
-
-        $cordovaCamera.getPicture(options).then(function(imageData) {
-            var image = document.getElementById('myImage');
-            image.src = "data:image/jpeg;base64," + imageData;
-        }, function(err) {
-            // error
-            console.log(error)
-            alert(error)
-        });
-
-    }, false);
 })
