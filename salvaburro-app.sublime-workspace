@@ -144,6 +144,19 @@
 	},
 	"file_history":
 	[
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/index.html",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/templates/consultaDePreOs.html",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/prod.json",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/templates/produto.html",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/js/routes.js",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/js/controllers.js",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/js/custom.js",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/js/directives.js",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/js/app.js",
+		"/Users/thiago/Downloads/prod.json",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/lib/firebase/firebase.js",
+		"/Users/thiago/Dropbox/Workspaces/Ionic/github-salvaburro-app/app/www/templates/consultaManual.html",
+		"/Users/thiago/Dropbox/Workspaces/HTML5/dwarf/src/js/app/app.js",
 		"/Users/thiago/Downloads/salvaBurro/js/routes.js",
 		"/Users/thiago/Downloads/salvaBurro/js/directives.js",
 		"/Users/thiago/Downloads/salvaBurro/js/controllers.js",
@@ -258,20 +271,7 @@
 		"/Library/WebServer/Documents/bruder/src/auth.xhtml",
 		"/Library/WebServer/Documents/bruder/src/js/app/adminPostListCtrl.js",
 		"/Library/WebServer/Documents/bruder/src/js/app/homePostCtrl.js",
-		"/Library/WebServer/Documents/bruder/src/js/app/homeCtrl.js",
-		"/Library/WebServer/Documents/bruder/src/js/app/app.js",
-		"/Library/WebServer/Documents/bruder/src/js/custom.js",
-		"/Library/WebServer/Documents/bruder/src/navbar.html",
-		"/Library/WebServer/Documents/bruder/src/js/goblin.js",
-		"/Library/WebServer/Documents/bruder/src/css/goblin.css",
-		"/Library/WebServer/Documents/bruder/src/home.html",
-		"/Library/WebServer/Documents/bruder/src/contato.html",
-		"/Library/WebServer/Documents/bruder/src/perguntas.html",
-		"/Library/WebServer/Documents/bruder/src/css/custom.css",
-		"/Library/WebServer/Documents/bruder/src/js/app/adminCtrl.js",
-		"/Library/WebServer/Documents/bruder/src/js/app/adminPostFormCtrl.js",
-		"/Library/WebServer/Documents/bruder/src/partials/admin/post-list.html",
-		"/Library/WebServer/Documents/bruder/src/partials/admin/post-form.html"
+		"/Library/WebServer/Documents/bruder/src/js/app/homeCtrl.js"
 	],
 	"find":
 	{
@@ -289,6 +289,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"barcodeData",
+			"stringify",
+			"prod.",
+			"database",
+			"begin",
 			"99",
 			"~",
 			"font",
@@ -411,12 +416,7 @@
 			"url(",
 			"placeho",
 			"http://placehold.it/400x400",
-			"animate",
-			"video",
-			"veja meu",
-			"uk",
-			"br",
-			"flag"
+			"animate"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -424,6 +424,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"/Users/thiago/Dropbox/Workspaces/Ferramentas",
 			"",
 			"-",
